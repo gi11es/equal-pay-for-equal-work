@@ -5,6 +5,7 @@ This is a list of organizations that pay remote workers equally regardless of th
 | ------------ | ------------------ | ------- | -------- |
 | [Basecamp](https://basecamp.com/) | Same pay everywhere, "top 10% of SF market", each job listing comes with a salary | [December 2017 announcement](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did/) | [Link](https://basecamp.com/about/jobs) |
 | [Cal.com](https://cal.com/) | Same pay everywhere, example salary bands published | [October 2021 announcement](https://cal.com/blog/open-startup) | [Link](https://cal.com/jobs) |
+| [Coinbase](https://www.coinbase.com/) | Same pay everywhere, salary bands not published | [May 2020 announcement](https://blog.coinbase.com/post-covid-19-coinbase-will-be-a-remote-first-company-cdac6e621df7) | [Link](https://www.coinbase.com/careers) |
 | [Daily](https://www.daily.co/) | Same pay everywhere, salary bands published | [February 2022 announcement](https://www.daily.co/blog/rethinking-levels-promotions-and-salaries/) | [Link](https://www.daily.co/jobs) |
 | [DuckDuckGo](https://duckduckgo.com/) | Same pay everywhere, salary bands not published | [Hiring page](https://duckduckgo.com/hiring) | [Link](https://duckduckgo.com/hiring) |
 | [Expensify](https://www.expensify.com/) | Same pay everywhere, "Silicon Valley levels", salary bands not published | [June 2016 announcement](https://blog.expensify.com/2016/06/17/expensifys-comp-review-process/) | [Link](https://we.are.expensify.com/apply) |
