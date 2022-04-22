@@ -8,3 +8,4 @@ This is a list of organizations that pay remote workers equally regardless of th
 | [DuckDuckGo](https://duckduckgo.com/) | Same pay everywhere, salary bands not public | [Hiring page](https://duckduckgo.com/hiring) | [Link](https://duckduckgo.com/hiring) |
 | [Basecamp](https://basecamp.com/) | Same pay everywhere, top 10% of SF market | [December 2017 announcement](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did/) | [Link](https://basecamp.com/about/jobs) |
 | [Cal.com](https://cal.com/) | Same pay everywhere, example salary bands published | [October 2021 announcement](https://cal.com/blog/open-startup) | [Link](https://cal.com/jobs) |
+| [Daily.co](https://www.daily.co/) | Same pay everywhere, salary bands published | [February 2022 announcement](https://www.daily.co/blog/rethinking-levels-promotions-and-salaries/) | [Link](https://www.daily.co/jobs) |
