@@ -4,7 +4,7 @@ This is a list of organizations that pay remote workers equally regardless of th
 | Organization | Compensation policy | Source | Job openings |
 | ------------ | ------------------ | ------- | -------- |
 | [Basecamp](https://basecamp.com/) | Same pay everywhere, "top 10% of SF market", each job listing comes with a salary | [December 2017 announcement](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did/) | [Link](https://basecamp.com/about/jobs) |
-| [Cabify](https://cabify.tech) | Same pay everywhere for Engineering, actual [salary bands](https://cabify.tech/handbook/you-at-cabify/salary-changes-and-promotions/) are public | [Handbook](https://cabify.tech/handbook/you-at-cabify/salary-changes-and-promotions/) | [Link](https://cabify.careers) |
+| [Cabify](https://cabify.tech) | Same pay everywhere for Software Engineering, actual [salary bands](https://cabify.tech/handbook/you-at-cabify/salary-changes-and-promotions/) are public | [Handbook](https://cabify.tech/handbook/you-at-cabify/salary-changes-and-promotions/) | [Link](https://cabify.careers) |
 | [Cal.com](https://cal.com/) | Same pay everywhere, example salary bands published | [October 2021 announcement](https://cal.com/blog/open-startup) | [Link](https://cal.com/jobs) |
 | [Daily](https://www.daily.co/) | Same pay everywhere, salary bands published | [February 2022 announcement](https://www.daily.co/blog/rethinking-levels-promotions-and-salaries/) | [Link](https://www.daily.co/jobs) |
 | [DuckDuckGo](https://duckduckgo.com/) | Same pay everywhere, salary bands not published | [Hiring page](https://duckduckgo.com/hiring) | [Link](https://duckduckgo.com/hiring) |
