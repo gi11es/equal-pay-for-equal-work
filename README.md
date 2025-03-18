@@ -3,8 +3,8 @@ This is a list of organizations that pay remote workers equally regardless of th
 
 | Organization | Compensation policy | Source | Job openings |
 | ------------ | ------------------ | ------- | -------- |
+| [37signals](https://37signals.com/) | Same pay everywhere, "top 10% of SF market", each job listing comes with a salary | [December 2017 announcement](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did/), [company website](https://37signals.com/19) | [Link](https://37signals.com/jobs/) |
 | [Airteam](https://airteam.com.au/) | "Location-agnostic and competitive pay" and personal office/tech stipend | [Careers Page](https://www.airteam.com.au/careers) | [Link](https://www.airteam.com.au/careers) |
-| [Basecamp](https://basecamp.com/) | Same pay everywhere, "top 10% of SF market", each job listing comes with a salary | [December 2017 announcement](https://m.signalvnoise.com/basecamp-doesnt-employ-anyone-in-san-francisco-but-now-we-pay-everyone-as-though-all-did/) | [Link](https://basecamp.com/about/jobs) |
 | [Cabify](https://cabify.tech) | Same pay everywhere for Software Engineering, actual [salary bands](https://cabify.tech/handbook/you-at-cabify/salary-changes-and-promotions/) are public | [Handbook](https://cabify.tech/handbook/you-at-cabify/salary-changes-and-promotions/) | [Link](https://cabify.careers) |
 | [Cal.com](https://cal.com/) | Same pay everywhere, example salary bands published | [October 2021 announcement](https://cal.com/blog/open-startup) | [Link](https://cal.com/jobs) |
 | [Cogsy](https://cogsy.com/) | Same pay everywhere, each job listing comes with a salary band | [People-First jobs profile/interview](https://peoplefirstjobs.com/companies/cogsy) | [Link](https://cogsy.com/hiring/) |
